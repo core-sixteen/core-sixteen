@@ -1,6 +1,6 @@
 # Hi, I'm Daniel, D16V, aka(CoreSixteen)
-- Full Stack Web Apps Developer
-- Backend Architect Developer
-- UI Component designer
+- Web Applications Software Engineer
+- Systems Architect
+- UI Designer
 
-**Profile:** Experienced in **building complete web application systems**, including databases, data modeling, backend logic, APIs, and frontend tied to user interactions. Specialized in designing fully functional and scalable applications with **clean, tested code.** UX/UI development driven by component-first design.
+**Profile:** Software Engineer & Systems Architect delivering full-scale end-to-end Web Application platforms from scratch to live production. Specialized in distributed low-level microservices, custom data layers, and fintech architectures. Backed by strict multi-tier Test Driven Development, clean code governance, smooth dev-stage-prod deployments, and UI/UX-driven component programming with automated testing for real-time, responsive frontends.
