@@ -1,4 +1,4 @@
-# Hi, I'm Daniel, D16V, aka(CoreSixteen)
+# Hi, I'm Daniel
 - Web Applications Software Engineer
 - Systems Architect
 - UI Designer
