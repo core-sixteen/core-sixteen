@@ -1,4 +1,4 @@
-# Hi, I'm Daniel aka(CoreSixteen)
+# Hi, I'm Daniel, D16V, aka(CoreSixteen)
 - Full Stack Web Apps Developer
 - Backend Architect Developer
 - UI Component designer
